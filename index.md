@@ -57,9 +57,9 @@ Example:
 ```ps
 # The following command will create a new dotnet console app
 # It will be created in a directory called "MyConsoleApp"
-# The .csproj file will be called "MyApp"
+# The .csproj file will be called "MyFirstApp"
 
-dotnet new console -o MyConsoleApp -n MyApp
+dotnet new console -o MyConsoleApp -n MyFirstApp
 ```
 
 <br />
@@ -80,4 +80,12 @@ dotnet new sln
 
 ```ps
 dotnet sln add <PROJECT_PATH>
+```
+
+<br />
+
+## `Add reference to project`
+
+```ps
+dotnet add <PROJECT_PATH> reference <REFERENCE_PATH>
 ```
