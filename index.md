@@ -1,7 +1,5 @@
-<style type="text/css" rel="stylesheet">
-  body {
-    background-color: #24292c;
-  }
+<!-- <style type="text/css" rel="stylesheet">
+
   h1 code {
     color: olivedrab;
     text-shadow: .5px 2px 2px;
@@ -23,7 +21,7 @@
     width: 40%;
     font-family: "Lucida Console", "Courier New", monospace;
   }
-</style>
+</style> -->
 
 # `dotnet cmds cheatsheet`
 
@@ -38,7 +36,7 @@
 
 Basic:
 
-```
+```ps
 dotnet new <TEMPLATE>
 ```
 
