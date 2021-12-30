@@ -1,4 +1,7 @@
 <style type="text/css" rel="stylesheet">
+  body {
+    background-color: #24292c;
+  }
   h1 code {
     color: olivedrab;
     text-shadow: .5px 2px 2px;
