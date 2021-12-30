@@ -32,8 +32,6 @@
 
 ## `Add a new project`
 
-<br />
-
 Basic:
 
 ```ps
@@ -66,23 +64,15 @@ dotnet new console -o MyConsoleApp -n MyFirstApp
 
 ## `Create a solution file`
 
-<br />
-
 ```ps
 dotnet new sln
 ```
 
-<br />
-
 ## `Add project to solution`
-
-<br />
 
 ```ps
 dotnet sln add <PROJECT_PATH>
 ```
-
-<br />
 
 ## `Add reference to project`
 
